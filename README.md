@@ -1,4 +1,4 @@
-### Olá pessoal, eu sou a Bruna! É um prazer receber vocês aqui! :v:
+### Olá, eu sou a Bruna! É um prazer receber vocês aqui! :v:
 
 Formada em Serviço Social, com pós-graduação em Fotografia, sou apaixonada por cultura, arte e tecnologia.
 
