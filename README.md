@@ -1,6 +1,6 @@
 ### Olá, eu sou a Bruna! É um prazer receber você aqui! :v:
 
-Formada em Serviço Social, com pós-graduação em Fotografia, sou apaixonada por cultura, arte e tecnologia.
+Formada em Serviço Social, com pós-graduação em Fotografia, sou apaixonada por cultura, arte e tecnologia, e estou em uma jornada pelo mundo da programação.
 
 ##
 
