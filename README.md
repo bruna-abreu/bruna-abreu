@@ -14,7 +14,7 @@ Formada em Serviço Social, com pós-graduação em Fotografia, sou apaixonada p
 
 ##
 
-Atualmente estou participando do Bootcamp da Laboratória, que tem duração de 6 meses com foco em empregabilidade na área de programação e é voltado 100% para mulheres. O treinamento é intensivo, com o objetivo de formar uma desenvolvedora front-end júnior que saiba trabalhar em ambientes de incertezas e constante mudança. 
+Recentemente concluí o Bootcamp da Laboratória, que teve duração de 6 meses com foco em empregabilidade na área de programação e é voltado 100% para mulheres. O treinamento foi intensivo, com o objetivo de formar uma desenvolvedora front-end júnior que saiba trabalhar em ambientes de incertezas e constante mudança. 
 
 Nele trabalhamos com JavaScript, HTML, CSS, UX/UI, Node.js, React, entre outras tecnologias, a partir de projetos realizados através de um método de autoaprendizagem e metodologias ágeis. 
 
