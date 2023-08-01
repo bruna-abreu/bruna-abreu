@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F573EC&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F553EC&size=35&center=true&vCenter=true&width=1000&lines=Prazer+eu+me+chamo+Bruna!;Fico+feliz+em+ter+você+aqui!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F553EC&size=35&center=true&vCenter=true&width=1000&lines=Prazer,+eu+me+chamo+Bruna!;Fico+feliz+em+ter+você+aqui!)](https://git.io/typing-svg)
 
 Formada em Serviço Social, com pós-graduação em Fotografia, sou apaixonada por cultura, arte e tecnologia. Estou em uma jornada pelo mundo da programação e atualmente sou Desenvolvedora Web Front-End.
 
